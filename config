@@ -3,4 +3,4 @@ user=ocid1.user.oc1..aaaaaaaa5ukemp3rdxma6sgpzgkfo3tzhslgfa3lceeae7dislk7i6nmvpr
 fingerprint=1f:fc:b5:6a:03:1e:4e:a1:9f:f1:7c:18:26:21:68:7f
 tenancy=ocid1.tenancy.oc1..aaaaaaaaotw4jnh2wquz7jlngkq2mlokt5busspqpd4hkvwvrdowiyup6npq
 region=uk-london-1
-key_file=wt725285214@gmail.com-2026-07-31T11_28_27.824Z.pem
+key_file=oci_private_key.pem
